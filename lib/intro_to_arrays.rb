@@ -5,3 +5,5 @@ end
 def array_with_two_elements
   my_array = ["string", 1]
 end
+
+first_element
