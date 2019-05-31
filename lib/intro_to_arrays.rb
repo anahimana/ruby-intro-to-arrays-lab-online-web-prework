@@ -15,5 +15,5 @@ def third_element(arg)
 end
 
 def last_element(arg)
-  arg[]
+  arg[-1]
 end
