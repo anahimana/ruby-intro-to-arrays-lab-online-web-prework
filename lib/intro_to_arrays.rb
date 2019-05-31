@@ -14,6 +14,6 @@ def third_element(arg)
   arg[2]
 end
 
-def first_element(arg)
+def last_element(arg)
   arg.last
 end
