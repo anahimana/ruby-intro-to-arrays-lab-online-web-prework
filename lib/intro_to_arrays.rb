@@ -18,3 +18,5 @@ def last_element(arg)
   arg[-1]
 end
 
+def first_element_with_array_methods(arg)
+end
